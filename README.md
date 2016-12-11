@@ -1,6 +1,4 @@
 # ImageMap Free Image Mapping Tool With CSS
-Free Image Mapping Tool
- <h1 id="homeHeading">Create Image Map Link With CSS in a Click</h1>
 <hr>
 <p>Quick ImageMap is an advance image mapping tool for web developer,<br>
  it will helps in easy image mapping  with coordinates also create custom CSS.<br>
