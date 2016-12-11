@@ -21,9 +21,11 @@ or
 ##You did lot's of CSS or Codes for same ?
 <br>
 Now it's over, you can do ton of task quick and free ! <br>
-Just upload and Image, Start Mapping with CSS and copy Generated code <br>
+Just upload and Image, Start Mapping with CSS and copy Generated code, watch below video for more info: <br>
 <br>
-[![Advanced Image Map Tool](http://img.youtube.com/vi/waUY9mjTOwQ/0.jpg)](http://www.youtube.com/watch?v=waUY9mjTOwQ)
+[![Advanced Image Map Tool](https://raw.githubusercontent.com/himstar/ImageMap/master/images/github.PNG)](http://www.youtube.com/watch?v=waUY9mjTOwQ)
+<br>
+* all files upload on server saved for next 16 hrs.
 <br>
 #How it Works ?
 <br> By using this script user can select image path along with coordinates. Script generate perfect coordinates HTML and required codes for you. You can also add custom css for styling your marked area.
