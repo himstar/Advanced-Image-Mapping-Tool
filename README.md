@@ -92,6 +92,8 @@ Ex-
 <script type="text/javascript" src="https://www.imagemap.in/quickmap/QuickMap.js"></script> 
 ```
 <br>
+Above selected script and JS convert selected area into Canvas for effects (you can also add other canvas properties after few modifications)
+<br>
 ##Contributions:
 <br>
 Plugin Used: Uploadify, Maphighlight <br>
