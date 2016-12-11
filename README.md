@@ -23,7 +23,7 @@ or
 Now it's over, you can do ton of task quick and free ! <br>
 Just upload and Image, Start Mapping with CSS and copy Generated code <br>
 <br>
-(http://img.youtube.com/vi/waUY9mjTOwQ/0.jpg)](http://www.youtube.com/watch?v=waUY9mjTOwQ)
+[![Advanced Image Map Tool](http://img.youtube.com/vi/waUY9mjTOwQ/0.jpg)](http://www.youtube.com/watch?v=waUY9mjTOwQ)
 <br>
 #How it Works ?
 <br> By using this script user can select image path along with coordinates. Script generate perfect coordinates HTML and required codes for you. You can also add custom css for styling your marked area.
@@ -40,8 +40,11 @@ Copy generated code and use in following way (without CSS)
 </map>
 ```
 <br>
-#With CSS (You should use ajax, Ex- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
- )
+#With CSS (You should use ajax)
+Ex-
+```ruby
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+```
  <br>
 ```ruby
 <img src="Your_Image_URL.jpg" alt="QuickMap" class="QuickMap" usemap="#QuickMap" />
