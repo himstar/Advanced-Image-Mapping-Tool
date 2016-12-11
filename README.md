@@ -1,4 +1,4 @@
-# ImageMap
+# ImageMap Free Image Mapping Tool With CSS
 Free Image Mapping Tool
  <h1 id="homeHeading">Create Image Map Link With CSS in a Click</h1>
 <hr>
@@ -16,9 +16,9 @@ or
 <br>
 ##or Tried these things in your development ?
 <br>
-<img src="<img src="https://www.imagemap.in/img/social.gif">">
+<img src="https://www.imagemap.in/img/social.gif">
 <br>
-<img src="https://www.imagemap.in/img/map.giff">
+<img src="https://www.imagemap.in/img/map.gif">
 <br>
 ##You did lot's of CSS or Codes for same ?
 <br>
@@ -26,3 +26,15 @@ Now it's over, you can do ton of task quick and free ! <br>
 Just upload and Image, Start Mapping with CSS and copy Generated code <br>
 <br>
 <iframe width="600" height="325" src="https://www.youtube.com/embed/waUY9mjTOwQ" frameborder="0" allowfullscreen></iframe>
+<br>
+#How it Works ?
+<br> By using this script user can select image path along with coordinates. Script generate perfect coordinates HTML and required codes for you. You can also add custom css for styling your marked area.
+<br>
+##Contributions:
+<br>
+Plugin Used: Uploadify, Maphighlight <br>
+Technology Used: HTML, CSS, JQuery & PHP <br>
+Frameworks Used: Bootstrap, AngularJs, Jquery UI <br>
+Cloud Sever & SSL: Managed by CloudFlare <br>
+Developed By: <a href="https://www.himstar.info"> Himanshu Dhiraj Mishra </a><br>
+
