@@ -1,0 +1,170 @@
+/* * * * RESET * * * */
+/* * * * MAIN * * * */
+.navbar-brand {
+	padding: 0 !important
+}
+.infobox {
+	width: auto !important;
+}
+input[type=file] {
+    height: 170px;
+    margin-top: -174px;
+    opacity: 0;
+    position: relative;
+    cursor: pointer;
+}
+.clear {
+	clear: both;
+}
+.error {
+	background: #fff;
+	color: #F05F40;
+	padding: 12px 4px;
+	font-weight: 600;
+	font-size: 16px;
+	width: 200px;
+	margin-left: 24px
+}
+#drop {
+	margin-top: -24px !important;
+	margin-bottom: 15px !important;
+}
+.hidden {
+	display: none;
+}
+
+/* URL Error Message */
+#urlMessage p {
+	width: 200px;
+	margin: 40px auto;
+	padding: 15px 30px;
+	color: #CC3B4E;
+	font-weight: bold;
+}
+#urlMessage a {
+	color: #F05F40;
+}
+
+/* Navigation */
+#navi {
+	width: 100%;
+	position: absolute;
+	top: 150px;
+	z-index: 40;
+	visibility: hidden
+}
+/* upload */
+
+/* Info-Pages */
+
+/* Imagemap Tool */
+#imagemap4posis {
+	float: left;
+	position: relative;
+	width: 100%;
+	margin: 0;
+	padding: 30px 0 100px 0;
+	display: none;
+	z-index: 20;
+	background: #11838a;
+}
+.fa-times {
+	margin-top: 42px;
+}
+	#newUpload {
+		height: 40px;
+		margin: 0 auto;
+	}
+		#newUpload span {
+			cursor: pointer;
+			width: 32px;
+			height: 32px;
+			font-size: 34px;
+			z-index: 1;
+    		position: relative;
+    		color: #F05F40;
+			display: block;
+			float: right;
+		}
+		.uploadify-queue-item .cancel a,
+	#mapContainer {
+		margin: 2px auto;
+		border: none;
+		background-color: transparent;
+		position: relative;
+	}
+		#imagemap4posis #mapContainer img {
+			cursor: crosshair;
+			-webkit-border-radius: 3px;
+			-moz-border-radius: 3px;
+			border-radius: 3px;
+			box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3), 0 4px 5px rgba(0, 0, 0, 0.6) inset, 0 1px 0 #000000 inset;
+		}
+		#imagemap4posis #mapContainer canvas {
+			-webkit-border-radius: 3px;
+			-moz-border-radius: 3px;
+			border-radius: 3px;
+		}
+		#imagemap4posis #mapContainer div {
+			cursor: crosshair;
+			-webkit-border-radius: 3px;
+			-moz-border-radius: 3px;
+			border-radius: 3px;
+		}
+	#imagemap4posis p {
+		font-weight: bold;
+		color: #fff;
+	}
+.dot {
+	position: absolute;
+	width: 3px;
+	height: 3px;
+    z-index: 200;
+}
+
+/* info-icon & info-text */
+
+/* form */
+div.form {
+	margin: 5px 10px;
+	position: relative;
+	margin: 0 auto;
+	width: 1000px;
+	min-width: 700px;
+}
+	div.form textarea {
+		width: 100%;
+		min-width: 700px;
+		height: 150px;
+		padding: 5px 4px 5px 7px;
+		color: #404040;
+		font-size: 12px;
+		resize: vertical;
+	}
+#coordsText {
+	margin: 16px 0;
+}
+.alert {
+    padding: 6px !important;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+/* * * * UPLOADIFY * * * */
+.uploadify {
+	position: relative;
+	/*margin: 0 0 15px 0;*/
+}
+#drop a,
+.uploadify,
+.uploadify .uploadify-button,
+object {
+	width: 220px !important;
+	height: 35px !important;
+	line-height: 35px !important;
+}
+.uploadify object {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
