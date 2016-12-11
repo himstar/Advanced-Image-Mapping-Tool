@@ -10,6 +10,8 @@ Image mapping tool will perform ton of your task for FREE !!</p>
 When you read e-paper you can see the actual effect of image mapping, a single image with many links with coordinates mapping!! <br>
 <img src="https://www.imagemap.in/img/epaper.gif">
 <br>
+Demo : <a href="https://www.imagemap.in/"> www.imagemap.in </a>
+<br>
 or
 <br>
 ##or Tried these things in your development ?
@@ -97,4 +99,5 @@ Technology Used: HTML, CSS, JQuery & PHP <br>
 Frameworks Used: Bootstrap, AngularJs, Jquery UI <br>
 Cloud Sever & SSL: Managed by CloudFlare <br>
 Developed By: <a href="https://www.himstar.info"> Himanshu Dhiraj Mishra </a><br>
+(GitHub shared source code missing templete files due to licence issue, you need to import it manumally)
 
