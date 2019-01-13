@@ -48,9 +48,8 @@ Ex-
 
 ```ruby
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-</map>
+
 ```
- <br>
  
 ```ruby
 <img src="Your_Image_URL.jpg" alt="QuickMap" class="QuickMap" usemap="#QuickMap" />
@@ -104,5 +103,5 @@ Technology Used: HTML, CSS, JQuery & PHP <br>
 Frameworks Used: Bootstrap, AngularJs, Jquery UI <br>
 Cloud Sever & SSL: Managed by CloudFlare <br>
 Developed By: <a href="https://www.himstar.info"> Himanshu Dhiraj Mishra </a><br>
-(GitHub shared source code missing templete files due to licence issue, you need to import it manumally)
+(GitHub shared source code missing templete files due to licence limitations, you may need to customize CSS manumally)
 
