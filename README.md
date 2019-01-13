@@ -8,7 +8,7 @@ Image mapping tool will perform ton of your task for FREE !!</p>
 ##Ever you read e-paper ?
 <br>
 When you read e-paper you can see the actual effect of image mapping, a single image with many links with coordinates mapping!! <br>
-<img src="https://www.imagemap.in/img/epaper.gif">
+<img src="https://www.tricksway.com/imagemap/img/epaper.gif">
 <br>
 or
 <br>
