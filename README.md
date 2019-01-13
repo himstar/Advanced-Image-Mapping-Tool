@@ -87,7 +87,7 @@ Ex-
         });
     });
 </script>
-<script type="text/javascript" src="https://www.imagemap.in/quickmap/QuickMap.js"></script> 
+<script type="text/javascript" src="https://www.tricksway.com/imagemap/quickmap/QuickMap.js"></script> 
 ```
 <br>
 Above selected script and JS convert selected area into Canvas for effects (you can also add other canvas properties after few modifications)
