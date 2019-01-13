@@ -1,7 +1,5 @@
 # ImageMap Free Image Mapping Tool With CSS
 <hr>
-Check Demo : <a href="https://www.imagemap.in/"> www.imagemap.in </a>
-<br>
 <p>Quick ImageMap is an advance image mapping tool for web developer,<br>
  it will helps in easy image mapping  with coordinates also create custom CSS.<br>
  Upload your image and click on clickable areas,
@@ -16,9 +14,9 @@ or
 <br>
 ##or Tried these things in your development ?
 <br>
-<img src="https://www.imagemap.in/img/social.gif">
+<img src="https://www.tricksway.com/imagemap/img/social.gif">
 <br>
-<img src="https://www.imagemap.in/img/map.gif">
+<img src="https://www.tricksway.com/imagemap/img/map.gif">
 <br>
 ##You did lot's of CSS or Codes for same ?
 <br>
