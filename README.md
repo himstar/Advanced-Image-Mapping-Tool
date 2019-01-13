@@ -46,6 +46,7 @@ Copy generated code and use in following way (without CSS)
 Ex-
 ```ruby
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+</map>
 ```
  <br>
 ```ruby
@@ -88,6 +89,7 @@ Ex-
     });
 </script>
 <script type="text/javascript" src="https://www.tricksway.com/imagemap/quickmap/QuickMap.js"></script> 
+
 ```
 <br>
 Above selected script and JS convert selected area into Canvas for effects (you can also add other canvas properties after few modifications)
